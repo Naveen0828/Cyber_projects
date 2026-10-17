@@ -1,0 +1,3 @@
+# PassGuard uses only Python standard-library modules.
+# No third-party pip dependencies are required.
+# Tkinter must be included in your Python installation.
